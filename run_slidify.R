@@ -14,3 +14,4 @@ setwd("developing-data-products")
 slidify("index.Rmd")
 browseURL("index.html")
 publish(username = "alfords", repo = "developing-data-products")
+
